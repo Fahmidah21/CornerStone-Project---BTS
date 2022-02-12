@@ -1,18 +1,4 @@
-nav a:hover{
-  background-color:#c9ada7;
-  color:#457b9d;
- }
- nav a:active{
- background-color:#e8e8e4;
-  color:#f28482; 
- }
 
- nav a{
-  text-decoration: none;
-  margin: 20px;
-  color: #333;
- 
- }
 
 
 
@@ -63,6 +49,14 @@ h1{
 
 body{
   background-image: URL("https://wallpapercave.com/wp/wp7581332.png")
+ 
+}
+
+#rmbody{
+  background-image:/* url("https://i.pinimg.com/originals/aa/99/da/aa99da0c1c64395718aacb7878c1cb5c.jpg");
+  url("https://i.pinimg.com/736x/66/b1/ca/66b1ca5f056a08563fcff6f09ab826d7.jpg");
+  url("https://wallpaperaccess.com/full/6897812.jpg")*/
+  url("https://wallpaperaccess.com/full/2394714.jpg")
 }
 
 h2{
@@ -72,11 +66,62 @@ h2{
 
 }
 
+.jinbody{
+  background-image: /*url("https://i.pinimg.com/originals/c0/3e/49/c03e494e925c6926ae35c57f6a74cf52.png");*/
+  url("https://i.pinimg.com/originals/96/09/04/960904d7ba77c1cfb5b7b35d30cf9a90.jpg");
+  
+}
+
+#yoongibody{
+  background-image: url("https://i.pinimg.com/originals/ba/ee/8b/baee8bc4687a030c736e8714a7231a90.jpg");
+}
+
+#jiminbody{
+  background-image:/* url("https://i.pinimg.com/originals/38/b0/8e/38b08e5faac5051aff9031d5f8ce806e.jpg");*/
+  url("https://i.pinimg.com/originals/c8/c6/8a/c8c68ae16be9be5efcb8abce31ece47e.jpg");
+}
+
+#vbody{
+  background-image: url("https://i.pinimg.com/originals/e3/e4/1e/e3e41ef9d31a0f8b4fac61b5e2c945b3.png");
+}
+
+#jkbody{
+  background-image: url("https://im.vsco.co/aws-us-west-2/253987/44825952/5bd209108fe8f405c5000000/vsco5bd20916d3bd6.jpg?w=412&dpr=2.625");
+}
+
+#jhopebody{
+  background-image: /*url("https://wallpaper.dog/large/20497572.jpg"); */
+  url("https://cdn141.picsart.com/325156377076201.jpg");
+}
+
+
 #foot{
   position: fixed;
   bottom: 5px;
   font-size: 18px;
   background: #fae1dd;
   box-shadow: 5px 10px #888888;
+  height: 60px;
 
 }
+
+legend{
+  font-size: 30px;
+  white-space: normal;
+}
+
+nav a:hover{
+  background-color:#c9ada7;
+  color:#457b9d;
+ }
+ nav a:active{
+ background-color:#e8e8e4;
+  color:#f28482; 
+ }
+
+ nav a{
+  text-decoration: none;
+  margin: 20px;
+  color: #333;
+ 
+ }
